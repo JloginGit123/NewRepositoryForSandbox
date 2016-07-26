@@ -1,9 +1,9 @@
 
-public class BC1 {
+public class Newfilefordemo1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Test123_update2_update");
+		System.out.println("My first code");
 	}
 
 }
