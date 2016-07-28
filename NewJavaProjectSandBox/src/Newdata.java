@@ -3,7 +3,7 @@ public class Newdata {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("123899");
+		System.out.println("for UST16");
 	}
 
 }
