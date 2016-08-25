@@ -5,7 +5,7 @@ public class deffix {
 		// TODO Auto-generated method stub
 		System.out.println("TEst multilple login_prashanth");
 		System.out.println("TEst multilple login_Vijay");
-		System.out.println("TEst multilple login_Hari for UST59 ");
+		System.out.println("TEst multilple login_Hari for UST58");
 	}
 
 }
