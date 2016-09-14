@@ -6,7 +6,7 @@ public class Newdata {
 		System.out.println("Changess done for UST666 and");
 		System.out.println("Changes done in another file");
 
-		System.out.println("Changes done in another file");
+		System.out.println("Changes done in another file again");
 	}
 
 }
