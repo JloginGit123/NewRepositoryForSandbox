@@ -5,7 +5,6 @@ public class Userstory {
 		// TODO Auto-generated method stub
 		System.out.println("User");
 		
-
 	}
 
 }
