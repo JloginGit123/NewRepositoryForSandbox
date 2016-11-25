@@ -5,7 +5,7 @@ public class Userstory {
 		// TODO Auto-generated method stub
 		System.out.println("User");
 		System.out.println("User for UST 43");
-		System.out.println("User for UST109");
+		System.out.println("User for UST109.");
 		
 	}
 
