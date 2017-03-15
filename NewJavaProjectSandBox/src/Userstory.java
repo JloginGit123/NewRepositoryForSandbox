@@ -7,6 +7,7 @@ public class Userstory {
 		System.out.println("User for UST 43");
 		System.out.println("User for DEF44");
 		System.out.println("User for UST 124_update");
+		System.out.println("User for UST 126");
 	}
 
 }
